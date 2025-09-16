@@ -1,72 +1,63 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1 align="center">Hi there, I'm Marrapu Sasidhar Naidu</h1>
-  <h3 align="center">A results-oriented Java Full Stack Developer building scalable web solutions with Spring Boot, Microservices, and AWS.</h3>
-</div>
+# 👋 Hi there, I'm Marrapu Sasidhar Naidu  
+
+<p align="left"> 
+A passionate and results-oriented **Java Full Stack Developer** with strong expertise in **Spring Boot, Microservices, AWS**, and modern software engineering practices.  
+I enjoy solving real-world challenges, building scalable applications, and contributing to open-source.  
+</p>  
 
 ---
 
-### 🤝 Let's Connect
+### 🌐 Let's Connect  
 
-<div align="center">
- <a href="https://linkedin.com/in/sasidharmarrapu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>
-  <a href="mailto:sasidharmarrapu674@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
+<p align="left"> 
+<a href="https://linkedin.com/in/sasidharmarrapu" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>  
 
----
-
-### 💻 My Tech Stack
-
-<p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/>
-  </a>
-  &nbsp;
-   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_stacked_rgb_reverse.png" alt="hibernate" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  </a>
-  &nbsp;
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-  </a>
-  &nbsp;
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/>
-  </a>
-</p>
+<a href="mailto:sasidharmarrapu674@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+</a>  
+</p>  
 
 ---
 
-### 📊 My GitHub Stats & Trophies
+### 💻 My Tech Stack  
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=[Your-GitHub-Username]&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=[Your-GitHub-Username]&theme=radical&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" /><br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="48" height="48" alt="Spring Boot" /><br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" width="48" height="48" alt="Hibernate" /><br>Hibernate
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" /><br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" /><br>Jenkins
+    </td>
+  </tr>
+</table>  
 
 ---
 
-### 🐍 My Contribution Snake
+### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[Your-GitHub-Username]/[Your-GitHub-Username]/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SasidharMarrapu &show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>  
+
+---
+
+✨ *"Always learning, always building."*  
