@@ -55,9 +55,24 @@
 
 📌 Here are some of my best works:  
 
-- 🔹 [Advanced Bank Loan Management System](https://github.com/YourRepo) — Java, Spring Boot, MySQL, Authentication.  
-- 🔹 [AI Content Generator Platform](https://github.com/YourRepo) — React.js, Node.js, MongoDB, OpenAI, Razorpay.  
-- 🔹 [Hand Gesture Recognition](https://github.com/YourRepo) — Python, OpenCV, MediaPipe, NumPy.  
+- 🔹 **[Student Management System](https://github.com/SasidharMarrapu/StudentManagementSystem)**  
+  - Developed a **Java-based Student Management System** with **JDBC & Oracle Database**.  
+  - Features include **adding, updating, deleting, and searching student records**.  
+  - Implemented **marks entry, announcements posting, and task assignments**.  
+  - Designed with a **modular structure** for scalability and maintainability.  
+
+- 🔹 **[AI Content Creation Platform](https://github.com/SasidharMarrapu/AI-Content-Creation-Platform.git)**  
+  - Built a **full-stack AI-powered content generation system** using **React.js, Node.js, Express.js, and MongoDB**.  
+  - Integrated **OpenAI & Gemini APIs** for text generation and **Monster API** for images.  
+  - Implemented **subscription & payment management** with Razorpay.  
+  - Deployed with a **modular and scalable architecture** for future features.  
+
+- 🔹 **[Hand Gesture Recognition System](https://github.com/SasidharMarrapu/Python.git)**  
+  - Created a real-time gesture recognition app using **Python, OpenCV, MediaPipe, and NumPy**.  
+  - Achieved **~85% accuracy** in detecting gestures like *Thumbs Up*, *Victory*, and *OK*.  
+  - Optimized for **smooth performance in real-time video streams**.  
+  - Potential use cases in **contactless systems & human-computer interaction**.  
+
 
 ---
 
