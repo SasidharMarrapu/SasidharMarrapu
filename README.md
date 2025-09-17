@@ -60,18 +60,30 @@
   - Features include **adding, updating, deleting, and searching student records**.  
   - Implemented **marks entry, announcements posting, and task assignments**.  
   - Designed with a **modular structure** for scalability and maintainability.  
+  - **Technologies Used:**  
+    ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=databricks&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 
-- 🔹 **[AI Content Creation Platform](https://github.com/SasidharMarrapu/AI-Content-Creation-Platform.git)**  
+---
+
+- 🔹 **[AI Content Generator Platform](https://github.com/SasidharMarrapu/AIContentPlatform)**  
   - Built a **full-stack AI-powered content generation system** using **React.js, Node.js, Express.js, and MongoDB**.  
   - Integrated **OpenAI & Gemini APIs** for text generation and **Monster API** for images.  
   - Implemented **subscription & payment management** with Razorpay.  
   - Deployed with a **modular and scalable architecture** for future features.  
+  - **Technologies Used:**  
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-0C4BFF?style=for-the-badge&logo=razorpay&logoColor=white)  
 
-- 🔹 **[Hand Gesture Recognition System](https://github.com/SasidharMarrapu/Python.git)**  
+---
+
+- 🔹 **[Hand Gesture Recognition System](https://github.com/SasidharMarrapu/HandGestureRecognition)**  
   - Created a real-time gesture recognition app using **Python, OpenCV, MediaPipe, and NumPy**.  
   - Achieved **~85% accuracy** in detecting gestures like *Thumbs Up*, *Victory*, and *OK*.  
   - Optimized for **smooth performance in real-time video streams**.  
   - Potential use cases in **contactless systems & human-computer interaction**.  
+  - **Technologies Used:**  
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+
+
 
 
 ---
