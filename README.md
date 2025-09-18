@@ -68,7 +68,7 @@
 
 📌 Here are some of my best works:  
 
-- 🔹 **[Student Management System](https://github.com/SasidharMarrapu/StudentManagementSystem)**  
+- 🔹 **[Student Management System](https://github.com/SasidharMarrapu/Student_Management_System.git)**  
   - Developed a **Java-based Student Management System** with **JDBC & Oracle Database**.  
   - Features include **adding, updating, deleting, and searching student records**.  
   - Implemented **marks entry, announcements posting, and task assignments**.  
